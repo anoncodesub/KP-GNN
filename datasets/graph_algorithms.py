@@ -1,3 +1,6 @@
+"""
+Utils to compute graph properties
+"""
 import math
 from queue import Queue
 

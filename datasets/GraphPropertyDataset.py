@@ -1,4 +1,6 @@
-
+"""
+Graph and node property dataset
+"""
 import os, torch, numpy as np
 import pickle
 from inspect import signature

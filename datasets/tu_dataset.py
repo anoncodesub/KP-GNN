@@ -1,6 +1,5 @@
 """
 TU dataset. Adapted from NestedGNN: https://github.com/muhanzhang/NestedGNN
-Jiarui Feng
 """
 
 import os
