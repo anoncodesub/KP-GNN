@@ -1,6 +1,5 @@
 """
 KP-GNN GCN layer
-Jiarui Feng
 """
 import torch.nn.functional as F
 from torch_geometric.nn import MessagePassing

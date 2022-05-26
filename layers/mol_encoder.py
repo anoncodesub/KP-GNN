@@ -1,6 +1,5 @@
 """
 Molecule embedding layer
-Jiarui Feng
 
 """
 

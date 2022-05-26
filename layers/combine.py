@@ -1,6 +1,5 @@
 """
 attention combine and geometric combine
-Jiarui Feng
 """
 import torch
 import torch.nn as nn

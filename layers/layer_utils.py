@@ -1,6 +1,5 @@
 """
 Utils for defining model layers
-Jiarui Feng
 """
 import torch
 
