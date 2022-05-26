@@ -1,6 +1,6 @@
 """
 script to train on node property prediction task
-Jiarui Feng
+Adpated from https://github.com/LingxiaoShawn/GNNAsKernel
 """
 
 import torch

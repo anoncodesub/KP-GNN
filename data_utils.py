@@ -1,6 +1,5 @@
 """
 utils for processing data used for training and evaluation
-Jiarui Feng
 """
 from copy import deepcopy as c
 from torch_geometric.data import Data,Batch

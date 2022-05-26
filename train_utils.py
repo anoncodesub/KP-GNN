@@ -1,6 +1,5 @@
 """
 util file for training
-Jiarui Feng
 """
 import torch
 import os

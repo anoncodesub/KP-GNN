@@ -1,6 +1,5 @@
 """
 script to train on EXP classification dataset
-Jiarui Feng
 """
 import numpy as np
 import random

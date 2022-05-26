@@ -1,7 +1,6 @@
 """
 script to train on TU dataset
 Adapted from Nested GNN:https://github.com/muhanzhang/NestedGNN
-Jiarui Feng
 """
 import train_utils
 import numpy as np

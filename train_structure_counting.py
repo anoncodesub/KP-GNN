@@ -1,6 +1,6 @@
 """
 script to train on graph substructure counting task
-Jiarui Feng
+Adpated from https://github.com/LingxiaoShawn/GNNAsKernel
 """
 import torch
 import numpy as np

@@ -1,6 +1,5 @@
 """
 script to train on TU dataset with GIN setting:https://github.com/weihua916/powerful-gnns
-Jiarui Feng
 """
 import train_utils
 import numpy as np

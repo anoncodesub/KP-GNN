@@ -1,6 +1,5 @@
 """
 script to train on ZINC task
-Jiarui Feng
 """
 import train_utils
 import numpy as np

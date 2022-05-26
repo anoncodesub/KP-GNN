@@ -1,6 +1,5 @@
 """
 script to train on QM9 task
-Jiarui Feng
 """
 
 import torch

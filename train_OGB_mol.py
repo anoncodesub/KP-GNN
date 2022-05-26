@@ -1,7 +1,6 @@
 """
 script to train on OGB molecule dataset
 Adapted from Nested GNN:https://github.com/muhanzhang/NestedGNN
-Jiarui Feng
 """
 
 from tqdm import tqdm
