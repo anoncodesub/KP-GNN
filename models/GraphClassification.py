@@ -1,6 +1,5 @@
 """
 Framework for graph classification
-Jiarui Feng
 """
 
 import torch.nn as nn

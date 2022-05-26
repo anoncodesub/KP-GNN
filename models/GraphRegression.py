@@ -1,6 +1,5 @@
 """
 Framework for graph regression
-Jiarui Feng
 """
 
 import torch.nn as nn

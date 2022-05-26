@@ -1,6 +1,5 @@
 """
 General GNN framework
-Jiarui Feng
 """
 import torch
 import torch.nn as nn

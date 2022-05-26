@@ -1,6 +1,5 @@
 """
 Framework for node regression
-Jiarui Feng
 """
 import torch.nn as nn
 
