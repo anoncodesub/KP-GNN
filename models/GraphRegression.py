@@ -35,13 +35,11 @@ class GraphRegression(nn.Module):
         self.regressor = nn.Linear(hidden_size, 1)
 
         self.reset_parameters()
-    def weights_init(self,m):
-        if isinstance(m, nn.Linear):
-            nn.init.xavier_uniform_(m.weight.data)
-            nn.init.zeros_(m.bias.data)
+
     def reset_parameters(self):
         self.embedding_model.reset_parameters()
-        self.regressor.apply(self.weights_init)
+        nn.init.xavier_normal_(self.regressor.weight.data)
+        nn.init.zeros_(self.regressor.weight.data)
         if self.pooling_method == "attention":
             self.pool.reset_parameters()
 
